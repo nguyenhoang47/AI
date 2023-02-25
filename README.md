@@ -1,2 +1,0 @@
-# AI
-bai tap AI
